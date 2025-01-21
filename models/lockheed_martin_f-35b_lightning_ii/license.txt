@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lockheed Martin F-35B Lightning II
+* source:	https://sketchfab.com/3d-models/lockheed-martin-f-35b-lightning-ii-7be561a0920444a8a22de68c0e564d63
+* author:	Spark_Customs (https://sketchfab.com/Spark_Customs)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lockheed Martin F-35B Lightning II" (https://sketchfab.com/3d-models/lockheed-martin-f-35b-lightning-ii-7be561a0920444a8a22de68c0e564d63) by Spark_Customs (https://sketchfab.com/Spark_Customs) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
